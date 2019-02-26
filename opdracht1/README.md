@@ -3,7 +3,9 @@ Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door ver
 
 Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
 
-[Demo 1 voor opdracht 1](https://dnlrsml.github.io/frontendvoordesigners/opdracht1/v2/)
+[Demo 1 voor opdracht 1](https://dnlrsml.github.io/frontendvoordesigners/tree/master/opdracht1/v2)
+
+
 
 [Demo 2 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v2/)
 
