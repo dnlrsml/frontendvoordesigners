@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+}
+
+h1 {
+    color: black;
+    font-family: sans-serif;
+    padding-left: .5em;
+    padding-top: .2em;
+    padding-bottom: .2em;
+    background: white;
+}
+
+.carousel-container {
+width: 80em;
+    height: 32em;
+    margin: auto;
+
+    overflow: hidden;
+   transition: 0.7 ease;
+
+}
+
+.carousel-slide {
+ display: flex;
+    width: 100px;
+    height: 500px;
+       transition: 0.7 ease;
+}
+
+button {
+    padding-left: 5em;
+    border: none;
+    padding-right: 5em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+   font-family: sans-serif;
+    font-size: 2em;
+    color: white;
+    background: none;
+    transition: 0.7s;
+}
+
+.buttons {
+    width: 49em;
+    
+    margin: auto;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
