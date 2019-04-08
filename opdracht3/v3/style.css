@@ -1,0 +1,66 @@
+body {
+  background: #1b2235;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border:none;
+
+}
+
+.content > section {
+background-color: white;
+  border: solid 1px #d5ddde;
+  margin: .5em;
+
+}
+
+.content > section {
+  width: 23em;
+  border-radius: 3%;
+  padding: 1em;
+  height: 450px;
+    overflow: hidden;
+      -webkit-transition: max-height 0.5s;
+  transition: 0.7s;
+
+
+}
+
+.content > section:hover {
+  transform: scale(1.01);
+  height: 100%;
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  width: 12em;
+}
+
+video {
+  width: 22em;
+}
+
+section > p:first-of-type {
+  font-size: 0.5em;
+}
